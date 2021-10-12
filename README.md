@@ -1,6 +1,6 @@
 # firestore-livehooks
 
-This package solves the common design pattern where a react component wants to show a collection from Firestore that live-updates (i.e. that subscribes to Firestore changes and updates the UI).
+This package solves the common design pattern where a React component wants to show a collection from Firestore that live-updates (i.e. that subscribes to Firestore changes and updates the UI).
 
 # Installation
 `npm install firestore-livehooks` or `yarn add firestore-livehooks`. The package assumes you're using React or React Native, and also that you're using some flavor of Firestore (whether the Web SDK or perhaps react-native-firebase).
